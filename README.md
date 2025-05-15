@@ -47,3 +47,5 @@ Nativo.
 
 **Inglés:**  
 B1  
+
+[CV en PDF](https://github.com/JoeCastRam/Castillo-curriculum/blob/main/Curr%C3%ADculum%20.pdf)
